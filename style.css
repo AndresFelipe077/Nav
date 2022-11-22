@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+body
+{
+    background: rgb(240, 236, 236);
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Sono', sans-serif;
+}
+
+
+
+nav a{
+
+    background: black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    display: block;
+    float: left;
+    margin: 3px;
+    
+}
+
+.nav-enlace:hover
+{
+    background: white;
+    color:black;
+}
+
+#container
+{
+    overflow: hidden;
+    background: rgb(195, 193, 193);
+    padding: 20px;
+}
+
+#h1{
+    color: rgb(61, 190, 41);
+}
